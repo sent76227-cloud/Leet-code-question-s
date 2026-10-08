@@ -1,47 +1,41 @@
 class Solution(object):
     def spiralOrder(self, matrix):
-        
+
         result = []
 
-        top = 0
-        bottom = len(matrix) - 1
-        left = 0
-        right = len(matrix[0]) - 1
+        row_start = 0
+        row_end = len(matrix) - 1
 
-        while top <= bottom and left <= right:
+        coloum_start = 0
+        coloum_end = len(matrix[0]) - 1
 
-            # 1. Right →
-            column = left
-            while column <= right:
-                result.append(matrix[top][column])
-                column = column + 1
+        while row_start <= row_end and coloum_start <= coloum_end:
 
-            top = top + 1
+            # RIGHT →
+            for i in range(coloum_start, coloum_end + 1):
+                result.append(matrix[row_start][i])
 
-            # 2. Down ↓
-            row = top
-            while row <= bottom:
-                result.append(matrix[row][right])
-                row = row + 1
+            row_start = row_start + 1
 
-            right = right - 1
+            # DOWN ↓
+            if row_start <= row_end:
+                for i in range(row_start, row_end + 1):
+                    result.append(matrix[i][coloum_end])
 
-            # 3. Left ←
-            if top <= bottom:
-                column = right
-                while column >= left:
-                    result.append(matrix[bottom][column])
-                    column = column - 1
+            coloum_end = coloum_end - 1
 
-                bottom = bottom - 1
+            # LEFT ←
+            if coloum_start <= coloum_end and row_start <= row_end:
+                for i in range(coloum_end, coloum_start - 1, -1):
+                    result.append(matrix[row_end][i])
 
-            # 4. Up ↑
-            if left <= right:
-                row = bottom
-                while row >= top:
-                    result.append(matrix[row][left])
-                    row = row - 1
+            row_end = row_end - 1
 
-                left = left + 1
+            # UP ↑
+            if row_start <= row_end and coloum_start <= coloum_end:
+                for i in range(row_end, row_start - 1, -1):
+                    result.append(matrix[i][coloum_start])
+
+            coloum_start = coloum_start + 1
 
         return result
