@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
