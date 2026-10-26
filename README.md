@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0118-pascals-triangle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
