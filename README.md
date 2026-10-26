@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0119-pascals-triangle-ii) |
+| [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -59,8 +60,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
