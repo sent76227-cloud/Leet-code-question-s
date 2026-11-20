@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
 ## Sorting
