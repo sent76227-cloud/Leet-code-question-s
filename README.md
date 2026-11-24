@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0048-rotate-image) |
+| [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -150,4 +151,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
