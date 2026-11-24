@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
