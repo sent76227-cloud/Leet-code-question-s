@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0493-reverse-pairs) |
+| [1512-number-of-good-pairs](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1512-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0048-rotate-image) |
+| [1512-number-of-good-pairs](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
