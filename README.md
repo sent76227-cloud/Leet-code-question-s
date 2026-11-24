@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0048-rotate-image) |
 | [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0119-pascals-triangle-ii) |
+| [1025-divisor-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -171,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
