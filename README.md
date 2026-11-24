@@ -177,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/1025-divisor-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
