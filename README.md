@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0020-valid-parentheses) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0229-majority-element-ii) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0183-customers-who-never-order) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sent76227-cloud/Leet-code-question-s/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
