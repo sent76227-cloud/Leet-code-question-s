@@ -4,21 +4,19 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        new = ""
-        max = 0 
+        sub= ""
+        long = 0
+        prev = 0
         for i in s:
-            if i not in new:
-                new = new + i
-            else:
-                new = new[new.index(i)+1::]
-                new = new + i
-            if len(new) > max:
-                max = len(new)
-
-        return max 
+          if i not in sub:
+            sub= sub+i
+          else:
+            sub = sub[sub.index(i)+1:]
+            sub = sub + i
+          long = max(len(sub),long)  
+        return long
         
-
-
+        
 
 
 
